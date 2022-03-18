@@ -288,3 +288,6 @@ system_internal_prop(mtk_acs_support_prop)
 
 # GSM
 vendor_internal_prop(mtk_gsm_neting_prop)
+
+# gpud property
+system_public_prop(debug_mtk_gpud_prop)
